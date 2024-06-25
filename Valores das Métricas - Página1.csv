@@ -1,0 +1,4 @@
+Tarefas,Média de Tempo,Desvio Padrão,VME,Media de Erros ao Executar algo,Média de Erros Encontrados na Aplicação,Média de Caracteristicas Rejeitadas,Média de Relatos de Desconforto,Média de Feedback Positivo
+Q1,00:01:25,"0,00053",00:00:14,"0,73",0,"0,27",0,"0,73 (1)"
+Q2,00:00:07,"0,00003",00:00:00,0,0,0,0,"0,82 (1)"
+Q3,00:00:08,"0,00004",00:00:01,0,0,0,0,"0,91 (1)"

@@ -1,0 +1,7 @@
+Eixo,,Métrica,,Calculo,Q1,Q2,Q3
+Simplicidade,,Numero de Erros (tentativas),,Média  ,"0,73",0,0
+Precisão,,Quantidade de Erros Identificados pelo Usuário,,Média  ,0,0,0
+Tempo Gasto,,Tempo Médio a Executar Tarefas,,Média  ,00:01:25,00:00:07,00:00:08
+Caracteristicas,,Caracteristicas Rejeitadas,,Média  ,"0,27",0,0
+Segurança,,Relatos de Desconforto,,Média  ,0,0,0
+Atratividade,,Feedback Positivo,,Média  ,"0,73 (1)","0,82 (1)","0,91 (1)"
